@@ -1,7 +1,7 @@
 # Walkscore_webscraper
 An unofficial walk score web scraper that was built to find walk scores for cities of interest for a travel web app. The list of cities are provided by a CSV file which contains information from Foursquare (Geonames).
 
-[](walkScoreScraper.py)
+[walkScoreScraper.py](walkScoreScraper.py)
 
 ### WalkScore
 [Walkscore](https://www.walkscore.com/) offers a service to provide a single metric that can describe the walkability, bikability, and transit-ability (?) of a location, neighborhood or city within the USA, Canada, or Australia. These scores are very useful for travelling, moving, and can even impact real estate value. 
